@@ -26,4 +26,4 @@ The design of the prompt builder was created using the [Wavyr Prototyper](https:
 
 ## Contributing
 
-If you have ideas for new prompts or improvements to existing ones, we encourage you to contribute to this repository. By sharing your insights and expertise, you can help make this resource even more valuable for the SaaS community.
+If you have ideas for new prompts or improvements to existing ones, I encourage you to contribute to this repository. By sharing your insights and expertise, you can help make this resource even more valuable for the SaaS community.
